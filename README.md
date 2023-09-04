@@ -1,8 +1,8 @@
 # Net Ninja Pro
 
-[Live Demo](https://chimerical-kringle-1bb7d5.netlify.app/)
+[Live Demo](https://glistening-halva-63e362.netlify.app/)
 
-![Net Ninja Pro](https://i.ibb.co/XxCt7BQ/bootcamp.png)
+![Net Ninja Pro](https://i.ibb.co/g9DZF7Y/Screenshot-20.png)
 
 ## Introduction 
 The Net Ninja Pro repository contains a web page developed for educational purposes. The web page is constructed using Bootstrap and serves as a simple landing page.
